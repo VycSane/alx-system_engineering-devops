@@ -26,3 +26,4 @@ g format.It also list the file owner and group in numeric form.
 
 13. The 12-file_type script prints the type of file the iamafile file in the tmp folder.
 
+14. The 13-symbolic_link script creates a symbolic link to the ls command in the bin folder.
