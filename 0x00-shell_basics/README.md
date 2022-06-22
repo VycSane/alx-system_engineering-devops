@@ -11,3 +11,6 @@
 6. The 5-listfilesdigitonly script lists all the files\
  including the hidden one in the directory in lon\
 g format.It also list the file owner and group in numeric form.
+
+7. The 6-firstdirectory script creates a directory named my_first_directory in the tmp folder.
+
