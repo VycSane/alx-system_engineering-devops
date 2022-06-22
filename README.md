@@ -1,0 +1,1 @@
+This repo is about learning Linux shell scripting.
