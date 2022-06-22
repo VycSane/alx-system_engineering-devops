@@ -8,6 +8,6 @@
 
 5. The 4-listmorefiles script lists all the files including the hidden one in the directory in long format.
 
-6. The 5-listfilesdigitonly script all the files\
+6. The 5-listfilesdigitonly script lists all the files\
  including the hidden one in the directory in lon\
 g format.It also list the file owner and group in numeric form.
