@@ -18,3 +18,5 @@ g format.It also list the file owner and group in numeric form.
 
 9. The 8-firstdelete script deletes a file named betty inside the my_first_directory folder inside the tmp folder.
 
+10. The 9-firstdirdeletion script deletes the my_first_directory folder inside the tmp folder.
+
