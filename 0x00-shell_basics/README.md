@@ -1,1 +1,3 @@
 1. The 0-current_working_directory script prints the absolute path to the current working directory.
+
+2. The 1-listit script prints the contents of the current directory.
