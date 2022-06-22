@@ -24,3 +24,5 @@ g format.It also list the file owner and group in numeric form.
 
 12. The 11-lists script prints the contents of the current directory, its parent directory contents and the contents of the boot directory.
 
+13. The 12-file_type script prints the type of file the iamafile file in the tmp folder.
+
