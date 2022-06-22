@@ -21,3 +21,6 @@ g format.It also list the file owner and group in numeric form.
 10. The 9-firstdirdeletion script deletes the my_first_directory folder inside the tmp folder.
 
 11. The 10-back script changes the current directory to the previous directory.
+
+12. The 11-lists script prints the contents of the current directory, its parent directory contents and the contents of the boot directory.
+
