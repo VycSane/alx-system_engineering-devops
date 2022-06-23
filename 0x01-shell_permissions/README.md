@@ -8,3 +8,4 @@
 8. The 7-everybody script adds the execute permission to everyone.
 9. The 8-James_Bond script sets all permission for only others.
 10. The 9-John_Doe script sets the permisdion of the hello file to rwxr-x-wx.
+11. The 10-mirror_permissions script sets the hello file mode to that of olleh.
