@@ -22,6 +22,8 @@
 
 14. The 13-unique script takes a list of words as input and prints only words that appear exactly once.
 
+15. The 14-findthatword script displays lines containing the pattern “root” from the file /etc/passwd.
+
 20. The 19-AZ script replaces all characters A and c from input to Z and e respectively.
 
 21. The 20-hiago script removes all letters c and C from input.
