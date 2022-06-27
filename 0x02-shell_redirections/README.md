@@ -2,3 +2,5 @@
 
 2. The 1-confused_smiley script displays a confused smiley "(Ôo)'.
 
+3. The 2-hellofile script prints the content of the /etc/passwd file.
+
