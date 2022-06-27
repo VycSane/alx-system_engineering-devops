@@ -16,4 +16,6 @@
 
 9. The 8-cwd_state script writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
 
+21. The 20-hiago script removes all letters c and C from input.
+
 22. The 21-reverse script reverse its input.
