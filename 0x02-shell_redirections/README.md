@@ -20,6 +20,8 @@
 
 11. The 10-no_more_js script deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 
+12. The 11-directories script that counts the number of directories and sub-directories in the current directory. The current and parent directories are not be taken into account, also hidden directories are should be counted
+
 13. The 12-newest_files script displays the 10 newest files in the current directory.
 
 14. The 13-unique script takes a list of words as input and prints only words that appear exactly once.
