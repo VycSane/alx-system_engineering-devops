@@ -28,7 +28,10 @@
 
 16. The 15-countthatword script the number of lines that contain the pattern “bin” in the file /etc/passwd.
 
-17. The 16-whatsnext script displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+17. The 16-whatsnext script displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+.
+18. The 17-hidethisword script displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
 
 20. The 19-AZ script replaces all characters A and c from input to Z and e respectively.
 
