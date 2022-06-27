@@ -20,6 +20,8 @@
 
 13. The 12-newest_files script displays the 10 newest files in the current directory.
 
+14. The 13-unique script takes a list of words as input and prints only words that appear exactly once.
+
 20. The 19-AZ script replaces all characters A and c from input to Z and e respectively.
 
 21. The 20-hiago script removes all letters c and C from input.
