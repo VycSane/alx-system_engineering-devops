@@ -4,3 +4,4 @@
 
 3. The 2-path script appends /action to the PATH.
 
+4. The 3-paths script counts the number of directories in the PATH.
