@@ -1,0 +1,1 @@
+1. The 0-alias script creates an alias, ls for "rm *" command.
