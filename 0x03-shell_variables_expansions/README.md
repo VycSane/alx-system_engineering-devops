@@ -26,3 +26,11 @@
 
 14. The 13-print_float script prints a number with two decimal places, followed by a new line.
 The number will be stored in the environment variable NUM.
+
+15. The 100-decimal_to_hexadecimal script converts a number from base 10 to base 16.
+
+16. The 101-rot13 script encodes and decodes text using the rot13 encryption. Assume ASCII.
+
+17. The 102-odd script prints every odd line from the input, starting with the first line.
+
+18 The 103-water_and_stir adds the two numbers stored in the environment variables WATER and STIR and prints the result.WATER is in base water and STIR is in base stir.The result should be in base bestchol
