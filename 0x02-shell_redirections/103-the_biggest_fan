@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d " " -f 1 | sort -d | uniq -c | sort -nr | head -n 11 | tr -d "[[:blank:]]" | cut -c 2-
+cut -d "-" -f 1-
